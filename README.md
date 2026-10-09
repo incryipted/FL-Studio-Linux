@@ -9,3 +9,6 @@ FL-Studio: https://www.image-line.com/
 Previous FL Versions: https://forum.image-line.com/viewtopic.php?t=194258
 
 Bottles on Flathub: https://flathub.org/apps/com.usebottles.bottles
+
+
+Usually required to use a older version currently V 26.1.4.5589 with the latest Wine
