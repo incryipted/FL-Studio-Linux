@@ -14,7 +14,8 @@ Bottles on Flathub: https://flathub.org/apps/com.usebottles.bottles
 Usually required to use a older version currently V 26.1.4.5589 with the latest Wine. 
 
 **Steps**
-Run Bottles, using your preferred way
-Download Wine specifically 11.19 is the current latest working version I can get working. (There is probably ways to get the Latest version to work)
 
+- Run Bottles, using your preferred way
+- Download Wine 11.19 Current latest working version. (There is probably ways to get the Latest version to work)
+- Install FL Studio V 26.1.4
 
